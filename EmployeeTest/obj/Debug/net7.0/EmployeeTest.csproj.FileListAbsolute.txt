@@ -1,0 +1,14 @@
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\bin\Debug\net7.0\EmployeeTest.exe
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\bin\Debug\net7.0\EmployeeTest.deps.json
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\bin\Debug\net7.0\EmployeeTest.runtimeconfig.json
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\bin\Debug\net7.0\EmployeeTest.dll
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\bin\Debug\net7.0\EmployeeTest.pdb
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.AssemblyInfoInputs.cache
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.AssemblyInfo.cs
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.csproj.CoreCompileInputs.cache
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.dll
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\refint\EmployeeTest.dll
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.pdb
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\EmployeeTest.genruntimeconfig.cache
+C:\CODEBITS\C-SHARP\labTask\EmployeeTest\EmployeeTest\obj\Debug\net7.0\ref\EmployeeTest.dll
